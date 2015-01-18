@@ -3,8 +3,7 @@ module JWPlayer::Rails
     DEFAULT_OPTIONS = {
       id: 'jwplayer',
       flashplayer: '/assets/flash.swf',
-      width: '400',
-      height: '300'
+      width: '100%'
     }
 
     # Includes JWPlayer javascript library
