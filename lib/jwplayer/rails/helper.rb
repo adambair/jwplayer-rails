@@ -2,7 +2,6 @@ module JWPlayer::Rails
   module Helper
     DEFAULT_OPTIONS = {
       id: 'jwplayer',
-      flashplayer: '/assets/flash.swf',
       width: '100%'
     }
 
